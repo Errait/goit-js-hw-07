@@ -10,5 +10,5 @@ for (let elem of categoriesList) {
     const listCount = list.querySelectorAll("li").length;
 
     console.log(`Category: ${title}`);
-    console.log(`Elemants: ${listCount}`);
+    console.log(`Elements: ${listCount}`);
 }
